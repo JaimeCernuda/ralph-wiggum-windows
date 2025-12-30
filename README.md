@@ -21,14 +21,14 @@ The Ralph Wiggum technique is an iterative development methodology based on cont
 ### Option 1: Clone and add locally
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/ralph-wiggum-windows.git
+git clone https://github.com/JaimeCernuda/ralph-wiggum-windows.git
 claude plugin add ./ralph-wiggum-windows
 ```
 
 ### Option 2: Add directly from GitHub
 
 ```powershell
-claude plugin add https://github.com/YOUR_USERNAME/ralph-wiggum-windows
+claude plugin add https://github.com/JaimeCernuda/ralph-wiggum-windows
 ```
 
 ## Usage
