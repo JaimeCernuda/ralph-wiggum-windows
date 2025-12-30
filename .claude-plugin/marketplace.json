@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ralph-wiggum-windows",
+  "description": "Windows port of the Ralph Wiggum plugin for Claude Code",
+  "owner": {
+    "name": "Jaime Cernuda",
+    "email": "jcernudagarcia@hawk.illinoistech.edu"
+  },
+  "plugins": [
+    {
+      "name": "ralph-wiggum-windows",
+      "description": "Windows port of the Ralph Wiggum technique - continuous self-referential AI loops for interactive iterative development. Uses PowerShell for Windows compatibility.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jaime Cernuda",
+        "email": "jcernudagarcia@hawk.illinoistech.edu"
+      },
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}

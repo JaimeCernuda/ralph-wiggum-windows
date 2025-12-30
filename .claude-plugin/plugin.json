@@ -3,6 +3,6 @@
   "description": "Windows port of the Ralph Wiggum technique - continuous self-referential AI loops for interactive iterative development. Run Claude in a while-true loop with the same prompt until task completion. Uses PowerShell for Windows compatibility.",
   "author": {
     "name": "Jaime Cernuda",
-    "email": "jaime@cernuda.com"
+    "email": "jcernudagarcia@hawk.illinoistech.edu"
   }
 }
