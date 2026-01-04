@@ -10,7 +10,7 @@ hide-from-slash-command-tool: "true"
 Execute the setup script to initialize the Ralph loop:
 
 ```bash
-powershell.exe -ExecutionPolicy Bypass -NoProfile -File "${CLAUDE_PLUGIN_ROOT}/scripts/setup-ralph-loop.ps1" $ARGUMENTS
+python "${CLAUDE_PLUGIN_ROOT}/scripts/setup-ralph-loop.py" $ARGUMENTS
 ```
 
 Please work on the task. When you try to exit, the Ralph loop will feed the SAME PROMPT back to you for the next iteration. You'll see your previous work in files and git history, allowing you to iterate and improve.
